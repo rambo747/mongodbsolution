@@ -1,0 +1,1 @@
+python count_valid_device_users.py <host> <port> <database> <username>"
